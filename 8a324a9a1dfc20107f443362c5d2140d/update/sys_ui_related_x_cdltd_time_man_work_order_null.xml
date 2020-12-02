@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_cdltd_time_man_work_order" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Work order - Default view" name="x_cdltd_time_man_work_order" related_list="NULL" sys_domain="global" view="Default view">bef89ed61d3060107f443362c5d21400</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_cdltd_time_man_time_card.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-02 21:02:35</sys_created_on>
+            <sys_id>baf89ed61d3060107f443362c5d21402</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-02 21:02:35</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Work order - Default view</calculated_name>
+            <filter/>
+            <name>x_cdltd_time_man_work_order</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-02 21:02:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bef89ed61d3060107f443362c5d21400</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Work order - Default view</sys_name>
+            <sys_package display_value="Time Management Work" source="x_cdltd_time_man">8a324a9a1dfc20107f443362c5d2140d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Time Management Work">8a324a9a1dfc20107f443362c5d2140d</sys_scope>
+            <sys_update_name>sys_ui_related_x_cdltd_time_man_work_order_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-02 21:02:34</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

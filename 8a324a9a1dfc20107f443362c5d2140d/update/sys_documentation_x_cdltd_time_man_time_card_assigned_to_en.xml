@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="assigned_to" label="Time user" language="en" table="x_cdltd_time_man_time_card">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <help/>
+            <hint>The employee who is reporting time</hint>
+            <label>Time user</label>
+            <language>en</language>
+            <name>x_cdltd_time_man_time_card</name>
+            <plural>Time users</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-02 20:43:22</sys_created_on>
+            <sys_id>86245e161d3060107f443362c5d21482</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Time user</sys_name>
+            <sys_package display_value="Time Management Work" source="x_cdltd_time_man">8a324a9a1dfc20107f443362c5d2140d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Time Management Work">8a324a9a1dfc20107f443362c5d2140d</sys_scope>
+            <sys_update_name>sys_documentation_x_cdltd_time_man_time_card_assigned_to_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-02 20:43:22</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

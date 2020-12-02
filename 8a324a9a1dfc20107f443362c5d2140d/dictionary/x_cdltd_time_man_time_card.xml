@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element extends="task" label="Time Card" max_length="40" name="x_cdltd_time_man_time_card" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Time Code" max_length="40" name="time_code" type="string"/>
+        <element label="Missed Punch" max_length="40" name="u_miss_punch" type="boolean"/>
     </element>
 </database>
