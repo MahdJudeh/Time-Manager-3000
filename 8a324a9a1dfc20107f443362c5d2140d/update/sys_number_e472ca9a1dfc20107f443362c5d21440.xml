@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_cdltd_time_man_work_order">x_cdltd_time_man_work_order</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>WOR</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-02 19:24:07</sys_created_on>
+        <sys_id>e472ca9a1dfc20107f443362c5d21440</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>WOR</sys_name>
+        <sys_package display_value="Time Management Work" source="x_cdltd_time_man">8a324a9a1dfc20107f443362c5d2140d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Management Work">8a324a9a1dfc20107f443362c5d2140d</sys_scope>
+        <sys_update_name>sys_number_e472ca9a1dfc20107f443362c5d21440</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-02 19:24:07</sys_updated_on>
+    </sys_number>
+</record_update>
