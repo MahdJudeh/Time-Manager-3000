@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Time Card" max_length="40" name="x_cdltd_time_man_time_card" type="collection">
+    <element extends="task" label="Time Card" max_length="40" name="x_cdltd_time_man_time_card" sizeclass="1" type="collection">
+        <element label="Billable" max_length="40" name="billable" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Time Code" max_length="40" name="time_code" type="string"/>
+        <element choice="1" label="Time Code" max_length="40" name="time_code_ch" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Support" sequence="0" value="support"/>
+                <element inactive_on_update="false" label="PMO" sequence="1" value="pmo"/>
+                <element inactive_on_update="false" label="Development" sequence="2" value="development"/>
+            </choice>
+        </element>
         <element label="Missed Punch" max_length="40" name="u_miss_punch" type="boolean"/>
     </element>
 </database>
